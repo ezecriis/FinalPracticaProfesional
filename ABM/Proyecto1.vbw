@@ -1,0 +1,6 @@
+FrmPrincipal = 101, 61, 921, 555, C, 24, 25, 861, 529, C
+ModPrincipal = 44, 58, 913, 477, C
+FrmEdit = 34, 22, 740, 520, C, 108, 37, 712, 552, C
+frmFilter = 132, 174, 674, 630, C, 78, 143, 686, 599, C
+ModColorearColumnasLV = 110, -16, 801, 484, C
+DataReport1 = 22, 29, 573, 485, C, -216, 55, 816, 828, C
